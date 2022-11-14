@@ -37,9 +37,9 @@ h1 {
     text-align: left;
     background-color: rgba(18, 18, 18, 0.56);
     color: aliceblue;
-    font-size: large;
+    font-size: 2em;
     margin: 3em auto;
     padding: 1em;
     border-radius: 50px;
-    width: 30%;
+    width: 70%;
 }
